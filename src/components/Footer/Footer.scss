@@ -1,0 +1,29 @@
+.footer {
+  background-color: rgb(29, 28, 28);
+  color: white;
+  padding: 40px;
+  text-align: center;
+  
+}
+
+.footer-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-list li {
+  margin: 0 20px;
+}
+
+.footer-list a {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+
+
+
